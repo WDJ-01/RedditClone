@@ -1,12 +1,12 @@
-#Reddit Lite
+# Reddit Lite
 
 ## To view a live example, **[click here](https://redditlit.netlify.app/)**
 
-##Descriptions
+## Descriptions
 
 Reddit Lite is a clone of the popular Reddit social news aggregation, content rating, and discussion website. Users can view posts and read comments from different subreddits(categories).
 
-##Features
+## Features
 
 Users can:
 
@@ -18,7 +18,7 @@ Users can:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##Built With
+## Built With
 
 Here is a list of resources used.
 
@@ -32,11 +32,11 @@ Here is a list of resources used.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##How To Use
+## How To Use
 
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
 
-###Steps
+### Steps
 
 1. Fork this repoistory and clone it to your local machine.
 ```bash
@@ -52,25 +52,28 @@ $ cd reddit-clone
 $ npm install
 ```
 
-###Serve
+### Serve
 
 * Start's development server
 ```bash
 $ npm run serve
 ```
 
-###Build
+### Build
 
 * Create build (uses Wepback). Find build in dist/ folder.
 ```bash
 $ npm run build
 ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##Acknowledgments
+## Acknowledgments
 
 * Reddit Unofficial Api
 * react-icons
 * react-loading-skeleton
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
